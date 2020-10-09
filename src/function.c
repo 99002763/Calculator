@@ -8,18 +8,20 @@ int add(int input1,int input2)
     return result;
 }
 
-int subtract(int input1,int input2)
-{
-    int result = input1-input2;
-    return result;
-}
-
 
 int multiply(int input1,int input2)
 {
     int result = input1*input2;
     return result;
 }
+
+
+int subtract(int input1,int input2)
+{
+    int result = input1-input2;
+    return result;
+}
+
 
 int divide(int input1,int input2)
 {
