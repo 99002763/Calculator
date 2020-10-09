@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-#include<math.h>
+#include<math.h> 
 int add(int input1,int input2);
 int subtract(int input1,int input2);
 int multiply(int input1,int input2);
