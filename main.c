@@ -1,6 +1,6 @@
 #include<function.h>
 
-int main()
+int main() 
 {
     int choice,input1,input2,result;
     double triginput,trigoutput;
